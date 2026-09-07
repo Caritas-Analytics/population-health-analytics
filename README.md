@@ -55,7 +55,7 @@ A total of **100 patients had two or more ER visits**:
 - 31 High-risk patients
 - 5 Low-risk patients
 
-- ### Emergency Department Utilization & Patient Risk
+ ### Emergency Department Utilization & Patient Risk
 
 ![Emergency Department Utilization and Patient Risk](ER_Utilization_Patient_Risk.png)
 
